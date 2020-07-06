@@ -1,0 +1,9 @@
+D:\Abhirup\POC\Microservice\Microservices.Product.Repository\bin\Release\netcoreapp3.1\Microservices.Product.Repository.deps.json
+D:\Abhirup\POC\Microservice\Microservices.Product.Repository\bin\Release\netcoreapp3.1\Microservices.Product.Repository.dll
+D:\Abhirup\POC\Microservice\Microservices.Product.Repository\bin\Release\netcoreapp3.1\Microservices.Product.Repository.pdb
+D:\Abhirup\POC\Microservice\Microservices.Product.Repository\obj\Release\netcoreapp3.1\Microservices.Product.Repository.csprojAssemblyReference.cache
+D:\Abhirup\POC\Microservice\Microservices.Product.Repository\obj\Release\netcoreapp3.1\Microservices.Product.Repository.AssemblyInfoInputs.cache
+D:\Abhirup\POC\Microservice\Microservices.Product.Repository\obj\Release\netcoreapp3.1\Microservices.Product.Repository.AssemblyInfo.cs
+D:\Abhirup\POC\Microservice\Microservices.Product.Repository\obj\Release\netcoreapp3.1\Microservices.Product.Repository.csproj.CoreCompileInputs.cache
+D:\Abhirup\POC\Microservice\Microservices.Product.Repository\obj\Release\netcoreapp3.1\Microservices.Product.Repository.dll
+D:\Abhirup\POC\Microservice\Microservices.Product.Repository\obj\Release\netcoreapp3.1\Microservices.Product.Repository.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Vv3a73wQeCiPQNbhc1a+lBlItbUCZZVVgfSo6rbCPe+XcIN6P+OmmaVhjX/Z6f0+d2PfUekBHFqVFUD4SyB0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Abhirup\\POC\\Microservice\\Microservices.Product.Repository\\Microservices.Product.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhir\\.nuget\\packages\\mediatr\\8.0.2\\mediatr.8.0.2.nupkg.sha512",
+    "C:\\Users\\abhir\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

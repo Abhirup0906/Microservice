@@ -1,0 +1,9 @@
+D:\Abhirup\POC\Microservice\Microservices.Employee.Repository\bin\Debug\netcoreapp3.1\Microservices.Employee.Repository.deps.json
+D:\Abhirup\POC\Microservice\Microservices.Employee.Repository\bin\Debug\netcoreapp3.1\Microservices.Employee.Repository.dll
+D:\Abhirup\POC\Microservice\Microservices.Employee.Repository\obj\Debug\netcoreapp3.1\Microservices.Employee.Repository.csprojAssemblyReference.cache
+D:\Abhirup\POC\Microservice\Microservices.Employee.Repository\obj\Debug\netcoreapp3.1\Microservices.Employee.Repository.AssemblyInfoInputs.cache
+D:\Abhirup\POC\Microservice\Microservices.Employee.Repository\obj\Debug\netcoreapp3.1\Microservices.Employee.Repository.AssemblyInfo.cs
+D:\Abhirup\POC\Microservice\Microservices.Employee.Repository\bin\Debug\netcoreapp3.1\Microservices.Employee.Repository.pdb
+D:\Abhirup\POC\Microservice\Microservices.Employee.Repository\obj\Debug\netcoreapp3.1\Microservices.Employee.Repository.csproj.CoreCompileInputs.cache
+D:\Abhirup\POC\Microservice\Microservices.Employee.Repository\obj\Debug\netcoreapp3.1\Microservices.Employee.Repository.dll
+D:\Abhirup\POC\Microservice\Microservices.Employee.Repository\obj\Debug\netcoreapp3.1\Microservices.Employee.Repository.pdb
